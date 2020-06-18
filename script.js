@@ -19,7 +19,7 @@ function init() {
             <h2>Mission Destination</h2>
             <ol>
                <li>Name: ${json[0].name}</li>
-               <li>Diameter: ${json[0].diamter}</li>
+               <li>Diameter: ${json[0].diameter}</li>
                <li>Star: ${json[0].star}</li>
                <li>Distance from Earth: ${json[0].distance}</li>
                <li>Number of Moons: ${json[0].moons}</li>
